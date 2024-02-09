@@ -1,6 +1,3 @@
-# Sample data
-input_file_data = ["1abc2", "pqr3stu8vwx", "a1b2c3d4e5f", "treb7uchet"]
-
 with open("input.txt", "r") as input_file:
     input_file_data = input_file.readlines()
 

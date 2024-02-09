@@ -1,16 +1,5 @@
-# Sample data
-input_file_data = [
-    "two1nine",
-    "eightwothree",
-    "abcone2threexyz",
-    "xtwone3four",
-    "4nineeightseven2",
-    "zoneight234",
-    "7pqrstsixteen",
-]
-
-# with open("input.txt", "r") as input_file:
-#     input_file_data = input_file.readlines()
+with open("input.txt", "r") as input_file:
+    input_file_data = input_file.readlines()
 
 
 sum_of_values = 0
